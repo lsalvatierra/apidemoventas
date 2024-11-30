@@ -1,0 +1,6 @@
+@apidemoventas_HostAddress = http://localhost:5051
+
+GET {{apidemoventas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

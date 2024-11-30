@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\dto\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:dto\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|c:\\lsalvatierra\\cibertec\\desarrolloserviciosweb1\\materiales\\demos\\apidemoventas\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B8511-5F02-4D9C-9570-C72741EA7D21}|apidemoventas.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Dto\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Dto\\MappingProfile.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Dto\\MappingProfile.cs",
+              "RelativeToolTip": "Dto\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:45:57.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:45:23.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:42:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA1wBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:41:42.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:39:12.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:38:09.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:37:04.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\lsalvatierra\\CIBERTEC\\DesarrolloServiciosWeb1\\materiales\\demos\\apidemoventas\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:35:58.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
